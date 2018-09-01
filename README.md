@@ -1,2 +1,2 @@
-# Gabriel-Ionica
+# GabrielIonica
 Java
